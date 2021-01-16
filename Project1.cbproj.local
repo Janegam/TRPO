@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.285,=C:\Users\ges3708\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.442,C:\Users\ges3708\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\ges3708\Desktop\Лабораторная работа №8\lab8\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.485,=C:\Users\ges3708\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.821,C:\Users\ges3708\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\ges3708\Desktop\Лабораторная работа №8\lab8\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.996,=C:\Users\ges3708\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.821,C:\Users\ges3708\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\ges3708\Desktop\Лабораторная работа №8\lab8\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.261,=C:\Users\ges3708\Documents\RAD Studio\Projects\Project1.res</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.907,C:\Users\ges3708\Desktop\Лабораторная работа №8\lab8\Project1.cbproj=C:\Users\ges3708\Desktop\Лабораторная работа №8\lab8\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.461,=C:\Users\ges3708\Documents\RAD Studio\Projects\Project1.res</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.821,C:\Users\ges3708\Documents\RAD Studio\Projects\Unit1.h=C:\Users\ges3708\Desktop\Лабораторная работа №8\lab8\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.877,=C:\Users\ges3708\Documents\RAD Studio\Projects\Project1.res</Transaction>
+  </Transactions>
+</BorlandProject>
